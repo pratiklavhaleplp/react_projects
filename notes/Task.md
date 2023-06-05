@@ -1,0 +1,1 @@
+- Create a HOC which will add css to all of your child classes so that you don't need to repeate CSS code acheive this with the help of HOC.

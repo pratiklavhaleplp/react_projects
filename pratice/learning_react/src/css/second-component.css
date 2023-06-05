@@ -1,0 +1,22 @@
+.parent-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.first-container{
+    display: flex;
+    column-gap: 10px;
+    height: 70px;
+    align-items: center;
+}
+
+.second-container{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    row-gap: 0px;
+}
+
+.second-container-item{
+    height: 3px;
+}
